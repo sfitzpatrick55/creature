@@ -1,0 +1,184 @@
+body {
+  background: url(./assets/scrapyard.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper{
+  /* margin: auto; */
+}
+
+.trapezoid-1 {
+  position: relative;
+  margin: auto;
+  width: 686px;
+  height: 48px;
+  background: #ac2800;
+  transform: perspective(18px) rotateX(-1deg);
+  left: 0;
+  top: 550px;
+}
+
+.trapezoid-2 {
+  position: relative;
+  width: 686px;
+  height: 48px;
+  background: red;
+  transform: perspective(20px) rotateX(-1deg);
+}
+
+
+
+
+
+
+
+  /* .head{
+    position: relative;
+      width:400px;
+      height: 350px;
+      border:solid 2px black;
+      background-color: red;
+      border-radius: 100em;
+    z-index:1;
+  }
+  
+  .righteye{
+    position:relative;
+    width: 150px;
+    height: 150px;
+    z-index: 2;
+    border:solid 1px black;
+    top: -80px;
+    left: 225px;
+    background-color: black;
+    border-radius: 100px 50px;
+  }
+  
+  #rie{
+    position:relative;
+    width: 70px;
+    height: 70px;
+    z-index:3;
+    border:solid 1px white;
+    top: 65px;
+    left: 30px;
+    background-color: white;
+    border-radius: 100px;  
+  }
+  
+  .lefteye{
+    position:relative;
+    width: 150px;
+    height: 150px;
+    z-index: 2;
+    border:solid 1px back;
+    top: 64px;
+    left: 32px;
+    background-color: black;
+    border-radius: 50px 100px;
+  }
+  
+  #lie{
+     position:relative;
+    width: 70px;
+    height: 70px;
+    z-index:3;
+    border:solid 1px white;
+    top: 65px;
+    left: 50px;
+    background-color: white;
+    border-radius: 100px; 
+   }
+  
+  .body{
+    height: 300px;
+    width: 300px;
+    position:relative;
+    border:solid 1px black;
+    background-color: red;
+    z-index:0;
+    top:-25px;
+    left:50px;
+    border-radius: 50px 50px 0px 0px;
+  }
+  
+  .left-stripe{
+    position: relative;
+    height:300px;
+    width:25px;
+    left:10px;
+    border:solid  1px black;
+    background-color:black;
+    border-radius:99px 0px 0px
+  }
+  
+  .right-stripe{
+    position: relative;
+    height:300px;
+    width:25px; 
+    top:-300px;
+    left:265px;
+    border:solid  1px black;
+    background-color:black;
+    border-radius:0px 99px 0px 0px;
+  }
+  
+  .left-arm{
+    position:relative;
+    height: 260px;
+    width: 60px;
+    top:-620px;
+    left:-90px;
+    border:none solid solid solid 1px black;
+    background-color:red;
+    z-index:-1;
+    border-radius: 100px 100px 0 0 ;
+    transform: rotate(45deg)  
+  }
+  
+  .right-arm{
+    position:relative;
+    height: 260px;
+    width: 60px;
+    top:-890px;
+    left:320px;
+    border:none 1px black;
+    background-color:red;
+    z-index:-1;
+    border-radius: 100px 100px 0 0 ;
+    transform: rotate(315deg)  
+  }
+  
+  .belt{
+    position: relative;
+    height:25px;
+    width:300px;
+    top:-835px;
+    border: solid 1px black;
+    background-color:black;
+  }
+  
+  .left-hand{
+    position:relative;
+    height:60px;
+    width:60px;
+    left:-190px;
+    top:-971px;
+    z-index:-2;
+    border:solid 2px black;
+    background-color:black;
+    border-radius:100px
+  }
+  
+  .right-hand{ 
+      position:relative;
+    height:60px;
+    width:60px;
+    left:420px;
+    top:-1040px;
+    z-index:-2;
+    border:solid 2px black;
+    background-color:black;
+    border-radius:100px
+  } */
